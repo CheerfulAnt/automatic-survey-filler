@@ -1,0 +1,68 @@
+{
+    "last_run_date": "00000000",
+    "date_format": "%Y.%m.%d",
+    "date_format_survey": "%d!%m!%Y",
+    "survey_stars": 1,
+    "survey_rating": "very_good",
+    "days_back": 1,
+    "purchase_days_back": 1,
+    "remove_used_answer_after_days": 1,
+    "remove_used_answer_last_date": "00000000",
+    "product_missing": 1,
+    "driver_url": "https://url...",
+    "shop_nr": {
+        "123456": {
+            "bill_last_nr": 123456,
+            "bill_daily": 123,
+            "surveys_daily": 1,
+            "surveys_filled_all": 12,
+            "surveys_filled_daily": 2,
+            "bill_real": [],
+            "text_answer_used": {
+                "8": "00000000",
+                "16": "00000000"
+            }
+        }
+    },
+    "gender": {
+        "female": 123,
+        "male": 321,
+    },
+    "input_ID": {
+        "bill_number": "id"
+    },
+    "dropdown_options": {
+        "age_XPATH": "XPATH",
+        "age_dict": {
+            "1": 11,
+            "2": 12,
+        },
+        "purchase_dict": {
+            "good": 11,
+            "bad": 12,
+        }
+    },
+    "radio_buttons": {
+        "product_missing_ID": "id_{}"
+    },
+    "button_star_XPATH": {
+        "page03": {
+            "option_1": "XPATH",
+            "option_2": "XPATH",
+            "option_3": "XPATH",
+            "option_4": "XPATH"
+
+        },
+        "page04": {
+            "option_1": "XPATH",
+            "option_2": "XPATH",
+            "option_3": "XPATH"
+        }
+    },
+    "text_answers": {
+        "rating_ID": "id",
+        "rating": {
+            "1": ""
+        }
+    }
+}
